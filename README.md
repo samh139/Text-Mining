@@ -1,5 +1,5 @@
 # Text-Mining
 
-## Perform sentimental analysis on the Elon-musk tweets using TextBlob
+###### Perform sentimental analysis on the Elon-musk tweets using TextBlob
 
-## Emotion mining on Amazon reviews of musical instruments
+###### Emotion mining on Amazon reviews of musical instruments
